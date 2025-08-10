@@ -5,12 +5,12 @@ const Portfolio = () => {
   const soloProjects = [
     {
       id: 1,
-      title: "Legal Judgment Retrieval using RAG",
-      img: "https://www.shutterstock.com/shutterstock/videos/1076370848/thumb/6.jpg?ip=x480",
-      description: "Built a LangChain + FAISS RAG system for Supreme Court legal queries using OpenAI embeddings.",
-      technologies: "LangChain | FAISS | GPT-4o | Python | CSV",
-      link: "https://github.com/Kalaicharan-M/Legal-Judgement-Retrieval-using-RAG-with-CSV-Case-Law-Data",
-      github: "https://github.com/Kalaicharan-M/Legal-Judgement-Retrieval-using-RAG-with-CSV-Case-Law-Data",
+      title: "Legal Chatbot (IPC Query Assistant)",
+      img: "https://github.com/Kalaicharan-M/LEGAL-CHATBOT-AI-Powered-IPC-Query-System-/raw/main/project%20images/Screenshot%202025-08-09%20161651.png",
+      description: "AI-powered chatbot for answering Indian Penal Code (IPC) queries using FAISS vector search and hybrid LLM integration (LM Studio/OpenAI).",
+      technologies: "FAISS | LangChain | Flask | OpenAI | LM Studio | Python",
+      link: "https://github.com/Kalaicharan-M/LEGAL-CHATBOT-AI-Powered-IPC-Query-System-",
+      github: "https://github.com/Kalaicharan-M/LEGAL-CHATBOT-AI-Powered-IPC-Query-System-"
     },
     {
       id: 2,
